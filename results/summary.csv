@@ -1,0 +1,6 @@
+kind,n,naive_correct_pct,fingerprint_correct_pct,fingerprint_partly_pct,fingerprint_abstained_pct,fingerprint_wrong_pct,group_level_correct_pct
+single,120.0,81.7,70.0,0.0,30.0,0.0,
+complex member,60.0,50.0,53.3,0.0,36.7,10.0,
+pair,45.0,71.1,42.2,48.9,8.9,0.0,
+unperturbed,30.0,0.0,100.0,0.0,0.0,0.0,
+all groups,,,,,,,93.8
